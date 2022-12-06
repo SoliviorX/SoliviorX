@@ -7,7 +7,6 @@
 <br />
 <br />
 
-<img align="right" alt="jpg" width="250px" src="https://zouyu-blog.oss-cn-hangzhou.aliyuncs.com/github/images/1666794384016.png" />
 
 ### **Talking about Personal Stuffs:**
 
