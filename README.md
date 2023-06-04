@@ -1,6 +1,6 @@
 ### Hey 👋, I'm ShiDeshan.
 
-<a href="https://github.com/Shideshanxx/">
+<a href="https://github.com/SoliviorX/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -14,7 +14,7 @@
 - 💻 I'm a **lifelong learner**.
 - 🌱 I’m looking to collaborate on open source or any commercial project.
 - This is my email: **307042873@qq.com**.
-- 掘金:<a href="https://juejin.cn/user/448256474886893"> 驺虞 </a>
+- 掘金:<a href="https://juejin.cn/user/448256474886893"> SoliviorX </a>
 
 - **If you like this readme file, please give me star! ❤️**
 
@@ -27,7 +27,7 @@
   
 <h1>
     <a href="">
-        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Shideshanxx&PAT_1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shideshanxx&PAT_1&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+        <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=SoliviorX&PAT_1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shideshanxx&PAT_1&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
     </a>
 </h1>
 
@@ -36,7 +36,7 @@
 <br></br>
   
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shideshanxx&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoliviorX&theme=algolia" alt="candida18"  /></p>
 
 ### 技术栈
 
